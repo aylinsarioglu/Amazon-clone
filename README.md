@@ -33,3 +33,16 @@ Bu proje, e-ticaret uygulamalarÄ±nda sÄ±k kullanÄ±lan UI yapÄ±larÄ±, component m
 ## Status
 ğŸš§ GeliÅŸtirme devam ediyor  
 (Bu proje UI ve mimari odaklÄ± bir vitrin Ã§alÄ±ÅŸmasÄ±dÄ±r.)
+
+## Notes
+- Bu proje UI ve mimari odaklı geliştirilmiştir.
+- API entegrasyonu yerine dummy data kullanılmıştır.
+- Component yapısı ölçeklenebilir olacak şekilde tasarlanmıştır.
+- Ekran yapısı genişletilebilir mimariye sahiptir.
+
+## Future Improvements
+- API entegrasyonu
+- Sepet (Cart) ekranı
+- Kullanıcı giriş sistemi
+- State management geliştirmeleri
+
