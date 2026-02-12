@@ -1,4 +1,4 @@
-# Amazon Clone
+﻿# Amazon Clone
 
 Amazon mobil uygulamasının temel ekranlarını ve kullanıcı akışlarını taklit eden bir React Native projesi.
 
@@ -24,25 +24,24 @@ Bu proje, e-ticaret uygulamalarında sık kullanılan UI yapıları, component m
 - React Navigation
 
 ## Project Structure
-- `src/screens` – Uygulama ekranları
-- `src/components` – Tekrar kullanılabilir bileşenler
-- `src/data` – Dummy veri yapıları
-- `src/utils` – Yardımcı fonksiyonlar
-- `src/navigation` – Navigasyon yapısı
+- src/screens  Uygulama ekranları
+- src/components  Tekrar kullanılabilir bileşenler
+- src/data  Dummy veri yapıları
+- src/utils  Yardımcı fonksiyonlar
+- src/navigation  Navigasyon yapısı
 
 ## Status
-🚧 Geliştirme devam ediyor  
+ Geliştirme devam ediyor
 (Bu proje UI ve mimari odaklı bir vitrin çalışmasıdır.)
 
 ## Notes
-- Bu proje UI ve mimari odakl� geli�tirilmi�tir.
-- API entegrasyonu yerine dummy data kullan�lm��t�r.
-- Component yap�s� �l�eklenebilir olacak �ekilde tasarlanm��t�r.
-- Ekran yap�s� geni�letilebilir mimariye sahiptir.
+- Bu proje UI ve mimari odaklı geliştirilmiştir.
+- API entegrasyonu yerine dummy data kullanılmıştır.
+- Component yapısı ölçeklenebilir olacak şekilde tasarlanmıştır.
+- Ekran yapısı genişletilebilir mimariye sahiptir.
 
 ## Future Improvements
 - API entegrasyonu
-- Sepet (Cart) ekran�
-- Kullan�c� giri� sistemi
-- State management geli�tirmeleri
-
+- Sepet (Cart) ekranı
+- Kullanıcı giriş sistemi
+- State management geliştirmeleri
